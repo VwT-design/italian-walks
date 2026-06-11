@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tom's Italian Walks</title>
+    <link>https://vwt-design.github.io/italian-walks</link>
+    <description>Personalized B1 Italian walk-session lessons and daily review mixes.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jun 2026 06:06:16 GMT</lastBuildDate>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>001 Morning Walk And Landlords Walk Session</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/001-morning-walk-and-landlords-walk-session.mp3" length="10843760" type="audio/mpeg"/>
+      <guid isPermaLink="false">001-morning-walk-and-landlords-walk-session.mp3</guid>
+      <pubDate>Thu, 11 Jun 2026 05:40:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
