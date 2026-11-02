@@ -5,8 +5,10 @@
     <link>https://vwt-design.github.io/italian-walks</link>
     <description>Personalized B1 Italian walk-session lessons and daily review mixes.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:16:13 GMT</lastBuildDate>
     <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://vwt-design.github.io/italian-walks/cover-csa.png"/>
+    <image><url>https://vwt-design.github.io/italian-walks/cover-csa.png</url><title>Tom's Italian Walks</title><link>https://vwt-design.github.io/italian-walks</link></image>
     <item>
       <title>Csa M03 Configure Applications</title>
       <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M03-configure-applications.mp3" length="10035926" type="audio/mpeg"/>
