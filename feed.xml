@@ -5,78 +5,65 @@
     <link>https://vwt-design.github.io/italian-walks</link>
     <description>Personalized B1 Italian walk-session lessons and daily review mixes.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 19:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:53:47 GMT</lastBuildDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://vwt-design.github.io/italian-walks/cover-csa.png"/>
-    <image><url>https://vwt-design.github.io/italian-walks/cover-csa.png</url><title>Tom's Italian Walks</title><link>https://vwt-design.github.io/italian-walks</link></image>
+    <itunes:image href="https://vwt-design.github.io/italian-walks/cover-csa-v6.png"/>
+    <image><url>https://vwt-design.github.io/italian-walks/cover-csa-v6.png</url><title>Tom's Italian Walks</title><link>https://vwt-design.github.io/italian-walks</link></image>
     <item>
-      <title>CSA ALL V5</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-ALL-v5.mp3" length="33603144" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-ALL-v5.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 19:26:31 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-ALL.png"/>
+      <title>CSA V6 08 Securing An Instance</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-08-securing-an-instance.mp3" length="3556919" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-08-securing-an-instance.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:53:46 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-08.png"/>
     </item>
     <item>
-      <title>CSA M08 Securing An Instance</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M08-securing-an-instance.mp3" length="5237541" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M08-securing-an-instance.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 10:42:05 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M08.png"/>
+      <title>CSA V6 07 Servicenow Utilities</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-07-servicenow-utilities.mp3" length="3732880" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-07-servicenow-utilities.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:53:33 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-07.png"/>
     </item>
     <item>
-      <title>CSA M07 Servicenow Utilities</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M07-servicenow-utilities.mp3" length="7693684" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M07-servicenow-utilities.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 10:39:10 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M07.png"/>
+      <title>CSA V6 06 Enable Productivity</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-06-enable-productivity.mp3" length="3806858" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-06-enable-productivity.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:53:18 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-06.png"/>
     </item>
     <item>
-      <title>CSA M06 Enable Productivity</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M06-enable-productivity.mp3" length="6339061" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M06-enable-productivity.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 10:35:21 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M06.png"/>
+      <title>CSA V6 05 Configure Self Service</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-05-configure-self-service.mp3" length="6185049" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-05-configure-self-service.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:53:03 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-05.png"/>
     </item>
     <item>
-      <title>CSA M05 Configure Self Service</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M05-configure-self-service.mp3" length="10151061" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M05-configure-self-service.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 10:32:22 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M05.png"/>
+      <title>CSA V6 04 Manage Data</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-04-manage-data.mp3" length="6013256" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-04-manage-data.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:52:44 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-04.png"/>
     </item>
     <item>
-      <title>CSA M04 Manage Data</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M04-manage-data.mp3" length="10824382" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M04-manage-data.mp3</guid>
-      <pubDate>Mon, 02 Nov 2026 10:27:05 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M04.png"/>
+      <title>CSA V6 03 Configure Applications</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-03-configure-applications.mp3" length="4684379" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-03-configure-applications.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:52:24 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-03.png"/>
     </item>
     <item>
-      <title>CSA M03 Configure Applications</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M03-configure-applications.mp3" length="10035926" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M03-configure-applications.mp3</guid>
-      <pubDate>Sun, 25 Oct 2026 14:20:40 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M03.png"/>
+      <title>CSA V6 02 Instance Configuration</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-02-instance-configuration.mp3" length="2837613" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-02-instance-configuration.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:52:07 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-02.png"/>
     </item>
     <item>
-      <title>CSA M02 Instance Configuration</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M02-instance-configuration.mp3" length="3361963" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M02-instance-configuration.mp3</guid>
-      <pubDate>Sun, 25 Oct 2026 13:15:23 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M02.png"/>
-    </item>
-    <item>
-      <title>CSA M01 Modernized Work Experience V2</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-M01-modernized-work-experience-v2.mp3" length="6741985" type="audio/mpeg"/>
-      <guid isPermaLink="false">CSA-M01-modernized-work-experience-v2.mp3</guid>
-      <pubDate>Sun, 25 Oct 2026 12:17:38 GMT</pubDate>
-      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-M01.png"/>
-    </item>
-    <item>
-      <title>001 Morning Walk And Landlords Walk Session</title>
-      <enclosure url="https://vwt-design.github.io/italian-walks/audio/001-morning-walk-and-landlords-walk-session.mp3" length="10843760" type="audio/mpeg"/>
-      <guid isPermaLink="false">001-morning-walk-and-landlords-walk-session.mp3</guid>
-      <pubDate>Thu, 11 Jun 2026 05:40:51 GMT</pubDate>
+      <title>CSA V6 01 Modernized Work Experience</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V6-01-modernized-work-experience.mp3" length="4323257" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V6-01-modernized-work-experience.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:51:54 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V6-01.png"/>
     </item>
   </channel>
 </rss>
