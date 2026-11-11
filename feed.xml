@@ -5,10 +5,17 @@
     <link>https://vwt-design.github.io/italian-walks</link>
     <description>Personalized B1 Italian walk-session lessons and daily review mixes.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 04:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:22:46 GMT</lastBuildDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://vwt-design.github.io/italian-walks/cover-csa-v7.png"/>
-    <image><url>https://vwt-design.github.io/italian-walks/cover-csa-v7.png</url><title>Tom's Italian Walks</title><link>https://vwt-design.github.io/italian-walks</link></image>
+    <itunes:image href="https://vwt-design.github.io/italian-walks/cover-csa-v8-gaps.png"/>
+    <image><url>https://vwt-design.github.io/italian-walks/cover-csa-v8-gaps.png</url><title>Tom's Italian Walks</title><link>https://vwt-design.github.io/italian-walks</link></image>
+    <item>
+      <title>CSA V8 GAPS 01 Modernized Work Experience</title>
+      <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V8-GAPS-01-modernized-work-experience.mp3" length="2048294" type="audio/mpeg"/>
+      <guid isPermaLink="false">CSA-V8-GAPS-01-modernized-work-experience.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 09:22:46 GMT</pubDate>
+      <itunes:image href="https://vwt-design.github.io/italian-walks/episode-art/CSA-V8-GAPS-01.png"/>
+    </item>
     <item>
       <title>CSA V7 09 Additional Cmdb Csdm</title>
       <enclosure url="https://vwt-design.github.io/italian-walks/audio/CSA-V7-09-additional-cmdb-csdm.mp3" length="9182877" type="audio/mpeg"/>
